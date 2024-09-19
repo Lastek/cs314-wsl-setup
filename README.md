@@ -9,7 +9,9 @@ There may be an issue with how WSL2 handles addressing but it's a simple fix.
 
 ## The Fix
 
-We'll modify `run.sh` and hopefully that will fix it for you.
+We'll modify `run.sh` and hopefully that will fix it for you. \
+For some reason WSL is not happy with the localhost addres.
+
 Change this line (line 162):
 
 <div><img src="image-1.png" alt="alt text" width="600"></div>
