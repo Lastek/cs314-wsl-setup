@@ -19,7 +19,7 @@ To this:
 
 > `BASE_URL="http://127.0.0.1:"${SERVER_PORT}`
 
-Now try running it again and it should be working.
+Now save it and try running it again and it should be working.
 
 ## Some necessary changes to .git
 We need to modify git to ignore the file so it doesnt get pushed by accident or overwritten.
