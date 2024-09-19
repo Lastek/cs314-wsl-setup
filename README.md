@@ -15,7 +15,7 @@ Change this line (line 162):
 <div><img src="image-1.png" alt="alt text" width="600"></div>
 
 To this:
-<div><img src="image-2.png" alt="alt text" width="600"></div>
+<div><img src="image-5.png" alt="alt text" width="600"></div>
 
 > `BASE_URL="http://127.0.0.1:"${SERVER_PORT}`
 
